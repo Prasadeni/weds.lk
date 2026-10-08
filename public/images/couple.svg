@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380"><rect width="300" height="380" fill="#f6ecd9"/><path d="M20 380V150C20 60 280 60 280 150V380" fill="none" stroke="#b8924a" stroke-width="2"/><circle cx="150" cy="90" r="46" fill="#f2c9d0" opacity=".6"/>
+<g><!-- bride: Kandyan osariya -->
+<path d="M70 380L82 200C84 176 130 176 134 200L148 380Z" fill="#fbf4e6" stroke="#b8924a" stroke-width="2"/><path d="M84 200C100 250 120 300 148 380H120C100 320 90 260 84 200Z" fill="#8a1c33"/><path d="M78 230L140 290" stroke="#b8924a" stroke-width="5"/>
+<path d="M92 206C92 170 124 170 124 206Z" fill="#e8c29c"/><circle cx="108" cy="150" r="22" fill="#e8c29c"/><path d="M84 148C84 118 132 118 132 148C132 134 84 134 84 148Z" fill="#2a1410"/><path d="M92 128L108 114L124 128" stroke="#b8924a" stroke-width="3" fill="none"/><circle cx="108" cy="116" r="4" fill="#b8924a"/><circle cx="108" cy="188" r="6" fill="#b8924a"/><path d="M90 196Q108 214 126 196" stroke="#b8924a" stroke-width="3" fill="none"/></g>
+<g><!-- groom: Kandyan attire -->
+<path d="M160 380L166 210C168 186 232 186 234 210L242 380Z" fill="#fff9ec" stroke="#b8924a" stroke-width="2"/><path d="M166 214L234 214L222 260H178Z" fill="#7a1426"/><path d="M160 262H242V282H160Z" fill="#b8924a"/><path d="M176 214L198 262L222 214" fill="none" stroke="#b8924a" stroke-width="3"/><circle cx="198" cy="270" r="7" fill="#7a1426"/>
+<circle cx="198" cy="160" r="22" fill="#d9a77e"/><path d="M172 150C172 112 224 112 224 150Z" fill="#7a1426" stroke="#b8924a" stroke-width="3"/><path d="M180 128L198 104L216 128" fill="#b8924a"/><path d="M168 200H228L222 224H174Z" fill="#b8924a" opacity=".85"/></g>
+</svg>
