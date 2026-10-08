@@ -111,6 +111,7 @@ export default function RSVP({ d }) {
           <div className="gift">
             <Lotus w={46} />
             <h3>Your presence is our greatest gift</h3>
+            {/*
             <p className="muted">Should you wish to bless us with a gift:</p>
             <p>
               {g.bank}
@@ -122,6 +123,7 @@ export default function RSVP({ d }) {
             <button className="btn ghost" onClick={copy}>
               {copied ? "Copied ✓" : "Copy account number"}
             </button>
+            */}
           </div>
         )}
       </div>
